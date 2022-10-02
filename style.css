@@ -44,7 +44,12 @@ header h2 span {
 
 }
 
-.centerimg h3{
+.centerimg h3{size: 4em;
+	font-weight: 600;
+	animation:  ganpatiji 1s infinite;
+}
+
+header h2 span {
 	width: 107%;
 	color: #000;
 	text-align: center;
