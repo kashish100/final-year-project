@@ -21,7 +21,12 @@ header h2{
 	word-spacing: 10px;
 	font-
 	font-family: myFirstFont;
+}size: 4em;
+	font-weight: 600;
+	animation:  ganpatiji 1s infinite;
 }
+
+header h2 span {
 
 @keyframes ganpatiji{
 	0%{color:red;}
