@@ -19,12 +19,7 @@ header{
 header h2{
 	text-align: center;
 	word-spacing: 10px;
-	font-size: 4em;
-	font-weight: 600;
-	animation:  ganpatiji 1s infinite;
-}
-
-header h2 span {
+	font-
 	font-family: myFirstFont;
 }
 
@@ -64,7 +59,12 @@ header h2{
 .centerimg{
 	margin-top: 60px;
 }
+size: 4em;
+	font-weight: 600;
+	animation:  ganpatiji 1s infinite;
+}
 
+header h2 span {
 .centerimg img{
 	width: 250px;
 }
@@ -72,7 +72,12 @@ header h2{
 .centerimg h3{
 	font-size: 1.2em;
 	word-spacing: 0px;
-	width: 100%;
+	width: 100%;size: 4em;
+	font-weight: 600;
+	animation:  ganpatiji 1s infinite;
+}
+
+header h2 span {
 }
 }
 
